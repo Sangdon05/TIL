@@ -1,6 +1,7 @@
 Today I Learned
 
 daily - 일별 배운 내용
+
 domain - 각 주제별 학습 지식 정리
 
 ```
