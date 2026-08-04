@@ -1,0 +1,2 @@
+`git add .` : 모든 변경사항 staging 상태로 변경
+`git add <파일명1> <파일명2>` : 지정한 파일만 staging 상태로 변경
