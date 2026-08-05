@@ -1,1 +1,11 @@
 git 관련 명령어 및 사용법에 대한 정보 정리
+
+---
+
+Working Directory
+
+Staging Area
+
+Repository
+
+HEAD

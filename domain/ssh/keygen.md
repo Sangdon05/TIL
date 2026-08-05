@@ -1,4 +1,4 @@
-`ssh-keygen`
+ssh 키 생성
 
-`-t <함호화 방식>` `-t ed25519`
+`ssh-keygen -t ed25519 -C <email address>`
 
